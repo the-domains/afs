@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA["One-Stop Shop for Green Building"]]></title>
+        <description><![CDATA["One-Stop Shop for Green Building"]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 15:15:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Good-quality LED bulbs can have a useful life of 25,000 hours or more -- meaning they can last more than 25 times longer than traditional light bulbs. That is a life of more than three years if run 24 hours a day, seven days a week.</p>]]></description>
+            <link>http://energy.gov/articles/top-8-things-you-didn-t-know-about-leds</link>
+            <guid isPermaLink="false">a6a61828-5bbc-4296-b8cd-4b3304d7eebe</guid>
+            <pubDate>Sat, 27 Feb 2016 15:15:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
