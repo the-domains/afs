@@ -1,0 +1,28 @@
+name: AFS
+favicon: null
+layout_spectrum: 0.20826453831978142
+typography_spectrum: 0.5442165653221309
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3107743358705193
+  lightness: 0.6783252356108278
+  saturation: 0.9221927851904184
+  rhythmicContrast: 0.18747694417834282
+purpose: []
