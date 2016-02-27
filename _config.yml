@@ -1,4 +1,4 @@
-name: AFS
+name: A Federal Source
 favicon: null
 layout_spectrum: 0.20826453831978142
 typography_spectrum: 0.5442165653221309
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#f9f9f9'
+    - '#7c9dd0'
+    - '#365596'
+    - '#5cac19'
+    - '#040301'
   brandStrength: 0.3107743358705193
   lightness: 0.6783252356108278
   saturation: 0.9221927851904184
