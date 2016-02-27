@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA["One-Stop Shop for Green Building"]]></title>
         <description><![CDATA["One-Stop Shop for Green Building"]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/afs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 15:15:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 15:15:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/afs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A Green Alternative focus on reliable, high quality, high efficiency, and cost-effective products.</p>]]></description>
+            <link>https://thegrid.ai/afs/f8ef2179-a569-4696-a2df-070497169db1/index.html</link>
+            <guid isPermaLink="false">f8ef2179-a569-4696-a2df-070497169db1</guid>
+            <pubDate>Sat, 27 Feb 2016 15:15:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Good-quality LED bulbs can have a useful life of 25,000 hours or more -- meaning they can last more than 25 times longer than traditional light bulbs. That is a life of more than three years if run 24 hours a day, seven days a week.</p>]]></description>
