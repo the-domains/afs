@@ -1,16 +1,16 @@
 title: 'A Federal Source, LLC'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 layout_spectrum: 0.8829787
 favicon: null
 name: A Federal Source
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -29,13 +29,13 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.5
-  saturation: 0.5
-  brandColors:
-    - '#ffffff'
-    - '#016239'
-    - '#000000'
-    - '#7f8084'
-    - '#dd2f23'
   lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
+  brandColors:
+    - '#040402'
+    - '#302E29'
+    - '#776E54'
+    - '#FDF3B4'
+    - '#9A9B88'
 typography_spectrum: 0.5442165653221309
