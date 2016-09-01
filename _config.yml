@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About Us
+    id: f64afd68-28a1-4b27-a0b3-c26cd1ec695f
+    type: content
 favicon: null
 collections:
   - index:
