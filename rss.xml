@@ -4,8 +4,15 @@
         <description><![CDATA[A Federal Source, LLC]]></description>
         <link>https://thegrid.ai/afs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 02:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 02:18:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/afs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>RESULTS</p>]]></description>
+            <link>https://thegrid.ai/afs/results/index.html</link>
+            <guid isPermaLink="false">f64afd68-28a1-4b27-a0b3-c26cd1ec695f</guid>
+            <pubDate>Tue, 30 Aug 2016 02:18:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Everyone Deserves A Green Home with GroHomes]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ac123d6-7f37-468e-834f-ab504753912a.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>“This partnership with industry to produce affordable, efficient lighting will save consumers money and create American jobs,” said Energy Secretary Ernest Moniz. “It’s another example of how energy efficiency is a win-win proposition for our economy.”</p>]]></description>
             <link>https://thegrid.ai/afs/this-partnership-with-industry-to-produce-affordable-effic/index.html</link>
             <guid isPermaLink="false">aa7ea7aa-91d7-4934-bce7-e52a5e666d21</guid>
-            <pubDate>Sun, 28 Feb 2016 01:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Some of the most successful projects include developing new ways to use materials, extract more light, and solve the underlying technical challenges.</p>]]></description>
-            <link>https://thegrid.ai/afs/some-of-the-most-successful-projects-include-developing-new/index.html</link>
-            <guid isPermaLink="false">26d38785-6e2b-4365-98a9-a8b5da221bb9</guid>
             <pubDate>Sun, 28 Feb 2016 01:48:43 GMT</pubDate>
         </item>
     </channel>
