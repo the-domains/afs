@@ -34,6 +34,9 @@ navigation:
   - name: SOLUTIONS
     id: 96498727-e357-4b58-b318-61f13345aac0
     type: content
+  - name: STRATEGY
+    id: 65a1e2d1-5048-4a53-a21d-8091ee97aaad
+    type: content
 favicon: null
 collections:
   - index:
