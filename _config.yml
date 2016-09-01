@@ -31,6 +31,9 @@ navigation:
   - name: SOLUTIONS
     id: 96498727-e357-4b58-b318-61f13345aac0
     type: content
+  - name: HOME
+    id: 994321c5-2670-4260-bff4-62bef72a7633
+    type: content
 favicon: null
 collections:
   - index:
