@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About
+  - name: ABOUT
     id: f64afd68-28a1-4b27-a0b3-c26cd1ec695f
     type: content
   - name: SOLUTIONS
