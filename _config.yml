@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: "A Green Alternative\_focus on reliable, high quality, high efficiency, and cost-effective products. "
-    id: 37d1db13-b52c-497a-9cec-f0e4f694acce
-    type: content
   - name: About
     id: f64afd68-28a1-4b27-a0b3-c26cd1ec695f
     type: content
