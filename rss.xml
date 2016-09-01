@@ -4,14 +4,28 @@
         <description><![CDATA[A Federal Source, LLC]]></description>
         <link>https://thegrid.ai/afs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 02:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 02:32:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/afs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABOUT US]]></title>
+            <description><![CDATA[<article><h1>ABOUT US</h1><p>A Federal Source, LLC is a distributor specializing in eco-friendly supplies such as LED and energy-efficient lighting solutions. Based on our simple unique, 4-step consultative-style process, we provide products and services to many types of customers in a variety of roles.</p></article>]]></description>
+            <link>https://thegrid.ai/afs/about-us/index.html</link>
+            <guid isPermaLink="false">005691b3-a9d9-4ea1-a83e-3bf178a8b924</guid>
+            <pubDate>Tue, 30 Aug 2016 02:24:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SOLUTIONS]]></title>
+            <description><![CDATA[<article><h1>SOLUTIONS</h1><p>"Green Building" objectives is one of the top topics of discussion worldwide. ​Our mission to provide simple access to green-only products is your green alternative and will only boost your bottom line.</p></article>]]></description>
+            <link>https://thegrid.ai/afs/solutions/index.html</link>
+            <guid isPermaLink="false">96498727-e357-4b58-b318-61f13345aac0</guid>
+            <pubDate>Tue, 30 Aug 2016 02:21:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>RESULTS</p>]]></description>
             <link>https://thegrid.ai/afs/results/index.html</link>
             <guid isPermaLink="false">f64afd68-28a1-4b27-a0b3-c26cd1ec695f</guid>
-            <pubDate>Tue, 30 Aug 2016 02:18:35 GMT</pubDate>
+            <pubDate>Tue, 30 Aug 2016 02:32:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Everyone Deserves A Green Home with GroHomes]]></title>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/afs/unlike-incandescent-bulbs-which-release-90-percent-of-the/index.html</link>
             <guid isPermaLink="false">1207b7d8-65e1-4e4c-b5bc-67e45c8d7b6b</guid>
             <pubDate>Sun, 28 Feb 2016 01:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Want to know more about the different lighting options available? Check out our Energy Saver lighting topic page to learn about lighting choices that will save you money, when to turn off your lights and more.</p>]]></description>
-            <link>https://thegrid.ai/afs/want-to-know-more-about-the-different-lighting-options-avail/index.html</link>
-            <guid isPermaLink="false">7a163f7b-0725-4837-b660-05ada648b25c</guid>
-            <pubDate>Sun, 28 Feb 2016 01:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>“This partnership with industry to produce affordable, efficient lighting will save consumers money and create American jobs,” said Energy Secretary Ernest Moniz. “It’s another example of how energy efficiency is a win-win proposition for our economy.”</p>]]></description>
-            <link>https://thegrid.ai/afs/this-partnership-with-industry-to-produce-affordable-effic/index.html</link>
-            <guid isPermaLink="false">aa7ea7aa-91d7-4934-bce7-e52a5e666d21</guid>
-            <pubDate>Sun, 28 Feb 2016 01:48:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
