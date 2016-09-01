@@ -31,6 +31,9 @@ navigation:
   - name: "A Green Alternative\_focus on reliable, high quality, high efficiency, and cost-effective products. "
     id: 37d1db13-b52c-497a-9cec-f0e4f694acce
     type: content
+  - name: SOLUTIONS
+    id: 96498727-e357-4b58-b318-61f13345aac0
+    type: content
 favicon: null
 collections:
   - index:
