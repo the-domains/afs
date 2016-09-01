@@ -1,20 +1,36 @@
-title: 'A Federal Source, LLC'
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.7085106
-favicon: null
-name: A Federal Source
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.5442165653221309
+color:
+  brandStrength: 0.5
+  saturation: 0.5
+  brandColors:
+    - '#040402'
+    - '#302E29'
+    - '#776E54'
+    - '#FDF3B4'
+    - '#9A9B88'
+  lightness: 0.5
+  rhythmicContrast: 0.5
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7085106
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: A Federal Source
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: >-
+      A Green Alternative focus on reliable, high quality, high efficiency, and
+      cost-effective products.
+    id: 65a1e2d1-5048-4a53-a21d-8091ee97aaad
+    type: content
+favicon: null
 collections:
   - index:
       navigable: true
@@ -27,15 +43,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.5
-  saturation: 0.5
-  brandColors:
-    - '#040402'
-    - '#302E29'
-    - '#776E54'
-    - '#FDF3B4'
-    - '#9A9B88'
-  lightness: 0.5
-  rhythmicContrast: 0.5
-typography_spectrum: 0.5442165653221309
+title: 'A Federal Source, LLC'
+purpose: []
