@@ -4,7 +4,7 @@
         <description><![CDATA[A Federal Source, LLC]]></description>
         <link>https://thegrid.ai/afs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 02:32:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 02:46:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/afs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ABOUT US]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>RESULTS</p>]]></description>
-            <link>https://thegrid.ai/afs/results/index.html</link>
-            <guid isPermaLink="false">f64afd68-28a1-4b27-a0b3-c26cd1ec695f</guid>
-            <pubDate>Tue, 30 Aug 2016 02:32:29 GMT</pubDate>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/afs/37d1db13-b52c-497a-9cec-f0e4f694acce/index.html</link>
+            <guid isPermaLink="false">37d1db13-b52c-497a-9cec-f0e4f694acce</guid>
+            <pubDate>Tue, 30 Aug 2016 02:33:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Everyone Deserves A Green Home with GroHomes]]></title>
@@ -67,13 +67,6 @@
             <description><![CDATA[<p>From traffic lights and vehicle brake lights to TVs and display cases, LEDs are used in a wide range of applications because of their unique characteristics, which include compact size, ease of maintenance, resistance to breakage, and the ability to focus the light in a single direction instead of having it go every which way</p>]]></description>
             <link>https://thegrid.ai/afs/from-traffic-lights-and-vehicle-brake-lights-to-tvs-and-disp/index.html</link>
             <guid isPermaLink="false">822d9324-0741-4263-bccb-6fe8999d4dde</guid>
-            <pubDate>Sun, 28 Feb 2016 01:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Unlike incandescent bulbs -- which release 90 percent of their energy as heat -- LEDs use energy far more efficiently with little wasted heat</p>]]></description>
-            <link>https://thegrid.ai/afs/unlike-incandescent-bulbs-which-release-90-percent-of-the/index.html</link>
-            <guid isPermaLink="false">1207b7d8-65e1-4e4c-b5bc-67e45c8d7b6b</guid>
             <pubDate>Sun, 28 Feb 2016 01:48:44 GMT</pubDate>
         </item>
     </channel>
