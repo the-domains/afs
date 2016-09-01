@@ -4,14 +4,15 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-30T01:38:23.188Z'
-dateModified: '2016-08-30T01:37:55.374Z'
-title: 'A Federal Source, LLC Logo'
+description: '"One Stop Shop for Green Building"'
+datePublished: '2016-08-30T01:56:55.255Z'
+dateModified: '2016-08-30T01:56:00.947Z'
+title: 'A Federal Source, LLC'
 author:
   - name: ''
     url: ''
 via: {}
+sourcePath: _posts/2016-08-30-a-federal-source-llc-logo.md
 authors: []
 publisher:
   name: ''
@@ -19,7 +20,6 @@ publisher:
   url: ''
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-30-a-federal-source-llc-logo.md
 url: a-federal-source-llc-logo/index.html
 _type: Article
 
