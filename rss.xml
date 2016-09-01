@@ -4,14 +4,27 @@
         <description><![CDATA[A Federal Source, LLC]]></description>
         <link>https://thegrid.ai/afs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 02:53:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 03:00:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/afs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>ABOUT</p>]]></description>
+            <link>https://thegrid.ai/afs/about/index.html</link>
+            <guid isPermaLink="false">cca02b64-e535-4a17-a1e4-23c9f61f455c</guid>
+            <pubDate>Tue, 30 Aug 2016 02:56:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ABOUT US]]></title>
             <description><![CDATA[<article><h1>ABOUT US</h1><p>A Federal Source, LLC is a distributor specializing in eco-friendly supplies such as LED and energy-efficient lighting solutions. Based on our simple unique, 4-step consultative-style process, we provide products and services to many types of customers in a variety of roles.</p></article>]]></description>
             <link>https://thegrid.ai/afs/about-us/index.html</link>
             <guid isPermaLink="false">005691b3-a9d9-4ea1-a83e-3bf178a8b924</guid>
             <pubDate>Tue, 30 Aug 2016 02:24:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/afs/994321c5-2670-4260-bff4-62bef72a7633/index.html</link>
+            <guid isPermaLink="false">994321c5-2670-4260-bff4-62bef72a7633</guid>
+            <pubDate>Tue, 30 Aug 2016 03:00:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Everyone Deserves A Green Home with GroHomes]]></title>
