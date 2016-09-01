@@ -1,13 +1,36 @@
-name: A Federal Source
-favicon: null
-layout_spectrum: 0.7085106
 typography_spectrum: 0.5442165653221309
+color:
+  brandColors:
+    - '#040402'
+    - '#302E29'
+    - '#776E54'
+    - '#FDF3B4'
+    - '#9A9B88'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7085106
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: A Federal Source
+cta:
+  domain: null
+  bucket: null
+  version: null
 navigation:
   - name: >-
       A Green Alternative focus on reliable, high quality, high efficiency, and
       cost-effective products.
     id: 65a1e2d1-5048-4a53-a21d-8091ee97aaad
     type: content
+favicon: null
 collections:
   - index:
       navigable: true
@@ -21,28 +44,5 @@ collections:
     permalink:
       path: '/:title/'
 title: 'A Federal Source, LLC'
-description: 'high efficiency, and cost-effective products.'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#040402'
-    - '#302E29'
-    - '#776E54'
-    - '#FDF3B4'
-    - '#9A9B88'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+description: '"One Stop Shop for Green-Building"'
 purpose: []
